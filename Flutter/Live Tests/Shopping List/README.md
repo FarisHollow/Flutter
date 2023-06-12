@@ -17,4 +17,4 @@ samples, guidance on mobile development, and a full API reference.
 
 
 
-![Alt text](https://i.postimg.cc/Ghc328F3/shop.png)
+![Shopping](https://i.postimg.cc/Ghc328F3/shop.png)
