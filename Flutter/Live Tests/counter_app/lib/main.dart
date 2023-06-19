@@ -103,11 +103,10 @@ class _CounterAppState extends State<CounterApp> {
                 ),
                 Expanded(
                   flex: 1,
-                  child: ElevatedButton.icon(
+                  child: ElevatedButton(
                     onPressed: _decrementCounter,
-                    icon: Icon(Icons.remove),
 
-                    label: Text('Decrement'),
+                    child: Text('- Decrement'),
                     style: ElevatedButton.styleFrom(backgroundColor: Colors.red),
 
                   ),
