@@ -49,7 +49,7 @@ class ContactApp extends StatelessWidget {
           itemBuilder: (context, index) {
             return ListTile(
               title: Text(contacts[index].name),
-              subtitle: Text(contacts[index].email),
+
               onTap: () {
                 _showContactDetails(context, contacts[index]);
               },
@@ -71,8 +71,13 @@ class ContactApp extends StatelessWidget {
             crossAxisAlignment: CrossAxisAlignment.start,
             children: [
               Text(
+                "Contact Details",
+                style: TextStyle(fontSize: 25, fontWeight: FontWeight.bold),
+              ),
+              SizedBox(height:8.0),
+              Text(
                 'Name: ${contact.name}',
-                style: TextStyle(fontSize: 18.0, fontWeight: FontWeight.bold),
+                style: TextStyle(fontSize: 18.0),
               ),
               SizedBox(height: 8.0),
               Text('Email: ${contact.email}'),
