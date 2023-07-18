@@ -1,16 +1,8 @@
 # responsive_orientation
 
-A new Flutter project.
+I could not provide the portrait due to no knowing how to portrain on chrome tab. Emulator don't work on my pc.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![1](https://github.com/FarisHollow/Flutter/assets/102200908/6c9d587c-9b77-48c2-bb3b-745204ca3a8b)
